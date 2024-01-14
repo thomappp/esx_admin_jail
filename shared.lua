@@ -44,7 +44,7 @@ Config = {
         { emote = "WORLD_HUMAN_PUSH_UPS", text = "Vous faites des pompes" },
         { emote = "CODE_HUMAN_MEDIC_KNEEL", text = "Vous regardez le sol" },
         { emote = "WORLD_HUMAN_MUSCLE_FLEX", text = "Vous montrez vos muscles" },
-        { emote = "WORLD_HUMAN_TOURIST_MAP", text = "Vous regardez une carte", },
+        { emote = "WORLD_HUMAN_TOURIST_MAP", text = "Vous regardez une carte" },
         { emote = "WORLD_HUMAN_GARDENER_PLANT", text = "Vous faites du jardinage" }
     }
 }
